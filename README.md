@@ -7,9 +7,10 @@ This project ability is select data by id for now.
 <p>
 Http Request                                                           
 <h4>/subscribers.wsdl  [POST]:   http://localhost:8080/ws/subscribers.wsdl   ContextType:(text/xml) 
-<h5>RequestBody:</h5>
- <h5> </h5>
- </h4>
+<h5>RequestBody:
+<a href="https://github.com/Burcukgo/SOAP-MiniApplication/blob/master/img/request.png" target="_blank">
+<img src="https://github.com/Burcukgo/SOAP-MiniApplication/blob/master/img/request.png" width="200" style="max-width:100%;"></a></h5>
+</h5> </h4>
  
  
 Http Response                                                          
